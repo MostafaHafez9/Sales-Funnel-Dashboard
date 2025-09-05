@@ -54,7 +54,7 @@ Built entirely in **Power BI**, the dashboard turns raw user journey data into *
 ## ✨ Author
 👤 Mostafa Hafez  
 - 💼 Aspiring Data Analyst  
-- 🌐 [LinkedIn](www.linkedin.com/in/mostafa-hafez-115b11241)  
+- 🌐 [LinkedIn](www.linkedin.com/in/mostafa-hafez-115b11241) 
 
 ---
 
